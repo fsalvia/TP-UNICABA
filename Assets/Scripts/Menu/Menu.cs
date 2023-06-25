@@ -12,7 +12,7 @@ public class Menu : MonoBehaviour {
         PlayerPrefs.SetInt("ScoreCoins", 0);
         PlayerPrefs.SetInt("ScoreGems", 0);
         PlayerPrefs.SetInt("ScoreStars", 0);
-        SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex + 1);
+        SceneManager.LoadScene (2);
     }
 
     public void ResumeGame() {
