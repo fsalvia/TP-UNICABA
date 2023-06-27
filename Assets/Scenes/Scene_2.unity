@@ -23884,7 +23884,7 @@ PrefabInstance:
     - target: {fileID: 3442526987920200451, guid: 3876bcac13172324bbe556cc1205a467,
         type: 3}
       propertyPath: dialogue.sentenceList.Array.data[0]
-      value: 'Menos mal que llegaste Kailius, la cosa se esta poniendo cada vez peor. '
+      value: Rowan! Has llegado tarde... El lider se ha ido. Rapido!! sigamos avanzando
       objectReference: {fileID: 0}
     - target: {fileID: 3442526987920200451, guid: 3876bcac13172324bbe556cc1205a467,
         type: 3}
@@ -32618,12 +32618,12 @@ PrefabInstance:
     - target: {fileID: 6320161624156859317, guid: 5371a829583918b439d1ee619bbe0485,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -37
+      value: -36.28
       objectReference: {fileID: 0}
     - target: {fileID: 6320161624156859317, guid: 5371a829583918b439d1ee619bbe0485,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -281
+      value: -281.53
       objectReference: {fileID: 0}
     - target: {fileID: 6320161624156859317, guid: 5371a829583918b439d1ee619bbe0485,
         type: 3}
@@ -33722,12 +33722,12 @@ PrefabInstance:
     - target: {fileID: 2369990289210757356, guid: dbcb10883e4a7dace8e37feda9a42605,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 57.48
+      value: -26.36
       objectReference: {fileID: 0}
     - target: {fileID: 2369990289210757356, guid: dbcb10883e4a7dace8e37feda9a42605,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 11.67
+      value: 4.12
       objectReference: {fileID: 0}
     - target: {fileID: 2369990289210757356, guid: dbcb10883e4a7dace8e37feda9a42605,
         type: 3}
